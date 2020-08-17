@@ -1,5 +1,5 @@
 // ******************************************
-// name Bello Abarchi, Brian Singh Sundesh, Fred Zeder
+// name Bello Abarchi
 //zach goes to the track
 //*******************************************
 #define _CRT_SECURE_NO_WARNINGS
